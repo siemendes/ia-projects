@@ -8,4 +8,6 @@ Différents projets réalisés en python au cours de ma formation IASD.
 
 * Travaux de recherche sur les modèles de diffusion (présenttaion, applications et défis)
 
-* Manipulation de ejux de données avec delta lake 
+* Manipulation de ejux de données avec delta lake
+
+* Entrainement de modèles génératifs de type assitant chat à destination des développeurs logiciels 
