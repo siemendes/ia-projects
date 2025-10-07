@@ -19,6 +19,5 @@ Coming soon
 
 * Constrained models for network robustness against adversarial attacks: verification of Lipschitz models, presentation, performance, and costs.
 
-Translated with DeepL.com (free version)
 
 
