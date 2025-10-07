@@ -1,13 +1,24 @@
 # ia-python-projects
 
-Différents projets réalisés en python au cours de ma formation IASD.
+Various projects completed in Python during my IASD training.
 
-* Développement d'un réseau de neurones joueur de go
+* Go-playing neural network
 
-* Développement d'un programme d'optimisation linéaire afin de déterminer la droite qui maximise la distance entre elle même et le point de données le plus proche de chaque côté
+* Linear optimization program designed to determine the line that maximizes the distance between itself and the closest data point on each side
 
-* Travaux de recherche sur les modèles de diffusion (présenttaion, applications et défis)
+* Research work on diffusion models (presentation, applications, and challenges)
 
-* Manipulation de ejux de données avec delta lake
+* Manipulation of datasets with DELTA LAKE
 
-* Entrainement de modèles génératifs de type assitant chat à destination des développeurs logiciels 
+* Training of generative chatbot-type models for software developers
+
+
+Coming soon
+
+* Recommendation program based on H&M transaction dataset
+
+* Constrained models for network robustness against adversarial attacks: verification of Lipschitz models, presentation, performance, and costs.
+
+Translated with DeepL.com (free version)
+
+
