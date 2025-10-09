@@ -12,7 +12,7 @@ Various projects completed in Python during my IASD training.
 
 * Training of generative chatbot-type models for software developers
 
-* Ce projet utilise Apache Spark pour identifier les connexions directes ou indirectes entre individus dans un grand réseau de données.
+* Apache Spark to identify direct or indirect connections between individuals in a large data network.
 
 
 Coming soon
