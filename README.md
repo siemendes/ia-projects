@@ -13,15 +13,15 @@ Various projects completed in Python during my IASD training.
 * Training of generative chatbot-type models for software developers.
 
 * Apache Spark to identify direct or indirect connections between individuals in a large data network.
-
+  
+* Recommendation program based on H&M transaction dataset.
+    
+* Scala program for calculating the page rank of Wikipedia pages.
+  
 
 Coming soon
 
-* Recommendation program based on H&M transaction dataset.
-
 * Constrained models for network robustness against adversarial attacks: verification of Lipschitz models, presentation, performance, and costs.
-
-* Scala program for calculating the page rank of Wikipedia pages.
 
 * Spark Scala program for estimating flight delays based on weather conditions at departure and destination airports.
 
