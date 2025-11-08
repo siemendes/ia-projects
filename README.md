@@ -1,6 +1,6 @@
-# ia-python-projects
+# ia-projects
 
-Various projects completed in Python during my IASD training.
+Various projects completed in Python or Scala during my IASD training.
 
 * Go-playing neural network :
   * reseauNeurones_JoueurGo.ipynb.
