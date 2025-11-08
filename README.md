@@ -2,21 +2,29 @@
 
 Various projects completed in Python during my IASD training.
 
-* Go-playing neural network.
+* Go-playing neural network :
+  * reseauNeurones_JoueurGo.ipynb.
 
-* Linear optimization program designed to determine the line that maximizes the distance between itself and the closest data point on each side.
+* Linear optimization program designed to determine the line that maximizes the distance between itself and the closest data point on each side
+  * optimisation_apprentissage.ipynb : 
 
-* Research work on diffusion models (presentation, applications, and challenges).
+* Research work on diffusion models (presentation, applications, and challenges) :
+  * modelesDiffusion_presentationApplicationsDefis.ipynb
 
-* Manipulation of datasets with DELTA LAKE.
+* Manipulation of datasets with DELTA LAKE :
+  * DapaPreprocessing_Partitions_DeltaLake.ipynb
 
-* Training of generative chatbot-type models for software developers.
+* Training of generative chatbot-type models for software developers :
+  * NLP_Projet_SMS_training.ipynb
 
-* Apache Spark to identify direct or indirect connections between individuals in a large data network.
+* Apache Spark to identify direct or indirect connections between individuals in a large data network : 
+  * CCF_Spark_Big_Data.ipynb.
   
-* Recommendation program based on H&M transaction dataset.
+* Recommendation program based on H&M transaction dataset :
+  * RecommandationProject.ipynb
     
-* Scala program for calculating the page rank of Wikipedia pages.
+* Scala program for calculating the page rank of Wikipedia pages :
+  * Graph_Project.scala
   
 
 Coming soon
