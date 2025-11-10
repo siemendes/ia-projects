@@ -15,7 +15,7 @@ Various projects completed in Python or Scala during my IASD training.
   * DapaPreprocessing_Partitions_DeltaLake.ipynb
 
 * Training of generative chatbot-type models for software developers :
-  * NLP_Projet_SMS_training.ipynb
+  * NLP_DeveloppersChat_training.ipynb
 
 * Apache Spark to identify direct or indirect connections between individuals in a large data network : 
   * CCF_Spark_Big_Data.ipynb.
